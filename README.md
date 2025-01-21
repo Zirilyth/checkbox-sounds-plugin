@@ -2,6 +2,7 @@
  
 Adds a simple completion sound when a checkbox is ticked-off
 
+
 ## How to Use
 1. Activate the plugin within "Community Plugins" Tab
 2. Use your mouse to tick off a checkbox
@@ -19,7 +20,7 @@ You may also choose to change the sound to another sound within the Settings Tab
 
 ### Support
 ---
-If you find this plugin useful or satisfying in any way and wish to support the development of this plugin further, please feel free to buy me a cup of coffee!
+If you find this plugin useful or satisfying in any way and wish to support the developer of the original project, buy them a cup of coffee!
 
 Thank you so much.
 
